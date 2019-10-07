@@ -8,10 +8,8 @@ import { Container, Header } from "native-base";
 import styles from "./styles";
 
 // Components
-import CoffeeList from "../CoffeeList";
-import CoffeeCart from "../CoffeeCart";
+
 import CoffeeDetail from "../CoffeeDetail";
-import Login from "../Login";
 
 const HomePage = () => {
   return (
